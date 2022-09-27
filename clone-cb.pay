@@ -1329,10 +1329,3 @@ if len(sys.argv) == 2:
  
 try:Main()
 except Exception as e:exit(str(e))
- 
-
-	
-
-
-
-_Sent from my I66 using Pydroid 3
